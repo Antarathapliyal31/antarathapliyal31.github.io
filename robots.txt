@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://antarathapliyal31.github.io/sitemap.xml
